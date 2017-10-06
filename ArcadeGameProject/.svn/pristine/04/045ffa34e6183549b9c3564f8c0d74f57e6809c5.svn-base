@@ -1,0 +1,3 @@
+Hussein: As we were kind of a milestone behind, I was mostly working on milestone 1. Creating walls that the player and enemies cannot move through. I also
+dedicated a good amount of time trying to make the code that mainly depended on static variables to be static free. That alone, has led to many different 
+bugs and issues with the code and calling functions and methods.

@@ -1,0 +1,4 @@
+Hussein: I added extra images and graphics, resetting level if hero dies, I implemented the pause button. I added monster 3 that goes through 
+brick walls. Fixed the null termination error and the other error after we added the pictures for the powerups. I also fixed a lot of different 
+things like the area in the such as explosion code. I tried adding and fixing anything I see wrong. I debugged and tested. Fixed powerup interaction with 
+hero. Commented all files and organized them by deleting duplicate and unnecessary code.
